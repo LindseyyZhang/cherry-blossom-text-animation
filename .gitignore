@@ -1,0 +1,25 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+*.temp
+
+# Project specific
+screenshots/*.png
+screenshots/*.jpg
+!screenshots/demo.gif
