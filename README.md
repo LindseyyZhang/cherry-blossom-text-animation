@@ -161,24 +161,6 @@ time.sleep(0.03)  # Decrease for higher FPS
 if depth > 3 and random.random() < 0.4:  # Adjust probability
 ```
 
-## 🎯 Future Improvements
-
-- [ ] Background sound effects (wind, birds)
-- [ ] Custom text input support
-- [ ] Multiple tree shapes
-- [ ] Seasonal variations
-- [ ] Export animation as GIF
-- [ ] Mobile app version
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit Issues and Pull Requests.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 📄 License
 
@@ -188,7 +170,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Thanks to Python Turtle library for graphics support
 - Inspired by classical Chinese poetry and the imagery of falling leaves
-- Special thanks to all friends who provided feedback and suggestions
 
 ---
 
